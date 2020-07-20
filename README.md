@@ -1,14 +1,16 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
+<a href=https://pypi.org/user/manisomanish/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pypi.svg alt="manisomanish" height="20" width="20" /></a>
 <a href=https://twitter.com/manisomanish target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="manisomanish" height="20" width="20" /></a>
 <a href=https://linkedin.com/in/manisomanish target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="manisomanish" height="20" width="20" /></a>
+<a href=https://stackoverflow.com/users/11743228/manish-soni target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="manisomanish" height="20" width="20" /></a>	
 </p>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=mani1soni alt=mani1soni/> </p>
 <div align="center" id="top">
 	<br>
 	<br>
 	<br>
-	<img width="400" height="200" src="https://raw.githubusercontent.com/mani1soni/mani1soni/master/devops.png" >
+	<img width="400" height="200" src="https://raw.githubusercontent.com/mani1soni/mani1soni/master/devops.png" > </div?
 	<br>
 	<br>
 	<br>
