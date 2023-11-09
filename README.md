@@ -16,7 +16,7 @@
 	<br>
 
 - 🔭 I’m currently working as a DevOps Engineer
-- 📫 How to reach me: Just Click on  [Manish Soni](https://mani1soni.github.io/) 
+- 📫 How to reach me: Just Click on  [Manish Soni](https://manisomanish.com/)
 
 <!--
 **mani1soni/mani1soni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
