@@ -62,6 +62,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mani1soni&theme=vue-dark)](https://git.io/streak-stats)
 
+[![mani1soni's Stack Overflow | Stats](https://stats.quine.sh/mani1soni/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mani1soni)
+
 ## My Activities :mailbox_with_mail:
 
 | BLOGS :open_book:|
