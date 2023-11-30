@@ -63,6 +63,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=mani1soni&theme=vue-dark)](https://git.io/streak-stats)
 
 [![mani1soni's Stack Overflow | Stats](https://stats.quine.sh/mani1soni/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mani1soni)
+[![An image of @manisomanish's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manisomanish)](https://holopin.io/@manisomanish)
 
 ## My Activities :mailbox_with_mail:
 
